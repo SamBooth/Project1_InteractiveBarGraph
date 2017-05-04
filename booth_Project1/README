@@ -10,7 +10,7 @@ Inspiration
   
 Build Instructions
   This project uses both ofxBullet and ofxCSV. ofxCSV is used to search through the data, and ofxBullet is used to create the 3D bar graph
-  environment. 
+  environment. This also uses the corpus csv data found in the bin folder of this project. 
   
 Usage Instructions
   Scrolling your mouse allows you to zoom in and out of the screen. Clicking and dragging the screen allows you to rotate around the 3D
